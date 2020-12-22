@@ -1,0 +1,28 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 20px;
+    padding: 0px 6px;
+    margin: 0px 0px;
+    padding-bottom: 10px;
+}
+#home{
+    height: 535px;
+    padding: 0px 0px;
+}
+#services {
+    flex-direction: column;
+}
+#services .box{
+   margin: 20px 5px;
+}
+.gangphoto{
+    flex-wrap: wrap;
+    
+}
+.gangphoto img{
+    height: auto;
+    width: 80px;
+    padding: 2px 5px;
+}
